@@ -44,7 +44,7 @@ setup(name='pilbox',
         },
       install_requires=[
         'tornado==3.1.1',
-        'Pillow==2.2.1',
+        'Pillow==2.3.0',
         'sphinx-me==0.2.1',
         ],
       zip_safe=True,
